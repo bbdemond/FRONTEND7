@@ -24,4 +24,6 @@
 ## 🚀 Быстрый старт
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/notes-pwa.git
+git clone https://github.com/bbdemond/FRONTEND7.git
+
+2. Нажмите Go Live
