@@ -25,5 +25,5 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/bbdemond/FRONTEND7.git
-
+```
 2. Нажмите Go Live
