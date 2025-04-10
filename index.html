@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Офлайн Заметки</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/icon-192x192.png">
+</head>
+<body>
+    <div class="container">
+        <h1>Мои Заметки</h1>
+        <div id="offline-status" class="offline">Офлайн-режим</div>
+        <div class="input-area">
+            <textarea id="note-input" placeholder="Введите вашу заметку..."></textarea>
+            <button id="add-note-btn">Добавить</button>
+        </div>
+        <div id="notes-list"></div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
